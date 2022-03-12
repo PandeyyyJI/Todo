@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Georgia";
+}
+
+body {
+  margin-left: 1rem;
+  background-color: #e0ddaa;
+  /* background-image: linear-gradient(to bottom right, #00b4d8, #90e0ef); */
+}
